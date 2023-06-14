@@ -1,0 +1,204 @@
+Last login: Sat May 14 17:02:57 on ttys000
+/Users/gcrane/.zshrc:1: command not found: Skip
+/Users/gcrane/.zshrc:2: command not found: Search
+/Users/gcrane/.zshrc:3: command not found: Pull
+/Users/gcrane/.zshrc:4: command not found: Issues
+/Users/gcrane/.zshrc:5: command not found: Marketplace
+/Users/gcrane/.zshrc:6: command not found: Explore
+/Users/gcrane/.zshrc:8: command not found: @gregorycrane
+/Users/gcrane/.zshrc:9: command not found: ohmyzsh
+/Users/gcrane/.zshrc:10: permission denied: /
+/Users/gcrane/.zshrc:11: command not found: ohmyzsh
+/Users/gcrane/.zshrc:12: command not found: Public
+/Users/gcrane/.zshrc:13: command not found: Code
+/Users/gcrane/.zshrc:14: command not found: Issues
+/Users/gcrane/.zshrc:15: command not found: 187
+/Users/gcrane/.zshrc:16: command not found: Pull
+/Users/gcrane/.zshrc:17: command not found: 388
+/Users/gcrane/.zshrc:18: command not found: Discussions
+/Users/gcrane/.zshrc:19: command not found: Actions
+/Users/gcrane/.zshrc:20: command not found: Projects
+/Users/gcrane/.zshrc:21: command not found: 1
+/Users/gcrane/.zshrc:22: command not found: Wiki
+Usage: Security [-h] [-i] [-l] [-p prompt] [-q] [-v] [command] [opt ...]
+    -i    Run in interactive mode.
+    -l    Run /usr/bin/leaks -nocontext before exiting.
+    -p    Set the prompt to "prompt" (implies -i).
+    -q    Be less verbose.
+    -v    Be more verbose about what's going on.
+Security commands are:
+    help                                 Show all commands, or show usage for a command.
+    list-keychains                       Display or manipulate the keychain search list.
+    list-smartcards                      Display available smartcards.
+    default-keychain                     Display or set the default keychain.
+    login-keychain                       Display or set the login keychain.
+    create-keychain                      Create keychains and add them to the search list.
+    delete-keychain                      Delete keychains and remove them from the search list.
+    lock-keychain                        Lock the specified keychain.
+    unlock-keychain                      Unlock the specified keychain.
+    set-keychain-settings                Set settings for a keychain.
+    set-keychain-password                Set password for a keychain.
+    show-keychain-info                   Show the settings for keychain.
+    dump-keychain                        Dump the contents of one or more keychains.
+    create-keypair                       Create an asymmetric key pair.
+    add-generic-password                 Add a generic password item.
+    add-internet-password                Add an internet password item.
+    add-certificates                     Add certificates to a keychain.
+    find-generic-password                Find a generic password item.
+    delete-generic-password              Delete a generic password item.
+    set-generic-password-partition-list  Set the partition list of a generic password item.
+    find-internet-password               Find an internet password item.
+    delete-internet-password             Delete an internet password item.
+    set-internet-password-partition-list Set the partition list of a internet password item.
+    find-key                             Find keys in the keychain
+    set-key-partition-list               Set the partition list of a key.
+    find-certificate                     Find a certificate item.
+    find-identity                        Find an identity (certificate + private key).
+    delete-certificate                   Delete a certificate from a keychain.
+    delete-identity                      Delete an identity (certificate + private key) from a keychain.
+    set-identity-preference              Set the preferred identity to use for a service.
+    get-identity-preference              Get the preferred identity to use for a service.
+    create-db                            Create a db using the DL.
+    export                               Export items from a keychain.
+    import                               Import items into a keychain.
+    export-smartcard                     Export items from a smartcard.
+    cms                                  Encode or decode CMS messages.
+    install-mds                          Install (or re-install) the MDS database.
+    add-trusted-cert                     Add trusted certificate(s).
+    remove-trusted-cert                  Remove trusted certificate(s).
+    dump-trust-settings                  Display contents of trust settings.
+    user-trust-settings-enable           Display or manipulate user-level trust settings.
+    trust-settings-export                Export trust settings.
+    trust-settings-import                Import trust settings.
+    verify-cert                          Verify certificate(s).
+    authorize                            Perform authorization operations.
+    authorizationdb                      Make changes to the authorization policy database.
+    execute-with-privileges              Execute tool with privileges.
+    leaks                                Run /usr/bin/leaks on this process.
+    error                                Display a descriptive message for the given error code(s).
+    create-filevaultmaster-keychain      Create a keychain containing a key pair for FileVault recovery use.
+    smartcards                           Enable, disable or list disabled smartcard tokens.
+    translocate-create                   Create a translocation point for the provided path
+    translocate-policy-check             Check whether a path would be translocated.
+    translocate-status-check             Check whether a path is translocated.
+    translocate-original-path            Find the original path for a translocated path.
+    requirement-evaluate                 Evaluate a requirement against a cert chain.
+Missing filename ("less --help" for help)
+/Users/gcrane/.zshrc:25: no such file or directory: ohmyzsh/templates/zshrc.zsh-template
+/Users/gcrane/.zshrc:26: command not found: @mcornella
+/Users/gcrane/.zshrc:27: command not found: mcornella
+/Users/gcrane/.zshrc:28: command not found: Latest
+/Users/gcrane/.zshrc:29: command not found: History
+/Users/gcrane/.zshrc:30: command not found: 40
+/Users/gcrane/.zshrc:31: command not found: @robbyrussell@mcornella@ncanceill@hwti@zakkak@Dieterbe@cuonglm@midnite81@trevor@To1ne@TimelyToga@thii
+/Users/gcrane/.zshrc:32: unknown file attribute: 7
+/Users/gcrane/.zshrc:source:108: no such file or directory: /Users/gcrane/.oh-my-zsh/oh-my-zsh.sh
+/Users/gcrane/.zshrc:135: command not found: ©
+/Users/gcrane/.zshrc:136: command not found: Terms
+/Users/gcrane/.zshrc:137: command not found: Privacy
+Usage: Security [-h] [-i] [-l] [-p prompt] [-q] [-v] [command] [opt ...]
+    -i    Run in interactive mode.
+    -l    Run /usr/bin/leaks -nocontext before exiting.
+    -p    Set the prompt to "prompt" (implies -i).
+    -q    Be less verbose.
+    -v    Be more verbose about what's going on.
+Security commands are:
+    help                                 Show all commands, or show usage for a command.
+    list-keychains                       Display or manipulate the keychain search list.
+    list-smartcards                      Display available smartcards.
+    default-keychain                     Display or set the default keychain.
+    login-keychain                       Display or set the login keychain.
+    create-keychain                      Create keychains and add them to the search list.
+    delete-keychain                      Delete keychains and remove them from the search list.
+    lock-keychain                        Lock the specified keychain.
+    unlock-keychain                      Unlock the specified keychain.
+    set-keychain-settings                Set settings for a keychain.
+    set-keychain-password                Set password for a keychain.
+    show-keychain-info                   Show the settings for keychain.
+    dump-keychain                        Dump the contents of one or more keychains.
+    create-keypair                       Create an asymmetric key pair.
+    add-generic-password                 Add a generic password item.
+    add-internet-password                Add an internet password item.
+    add-certificates                     Add certificates to a keychain.
+    find-generic-password                Find a generic password item.
+    delete-generic-password              Delete a generic password item.
+    set-generic-password-partition-list  Set the partition list of a generic password item.
+    find-internet-password               Find an internet password item.
+    delete-internet-password             Delete an internet password item.
+    set-internet-password-partition-list Set the partition list of a internet password item.
+    find-key                             Find keys in the keychain
+    set-key-partition-list               Set the partition list of a key.
+    find-certificate                     Find a certificate item.
+    find-identity                        Find an identity (certificate + private key).
+    delete-certificate                   Delete a certificate from a keychain.
+    delete-identity                      Delete an identity (certificate + private key) from a keychain.
+    set-identity-preference              Set the preferred identity to use for a service.
+    get-identity-preference              Get the preferred identity to use for a service.
+    create-db                            Create a db using the DL.
+    export                               Export items from a keychain.
+    import                               Import items into a keychain.
+    export-smartcard                     Export items from a smartcard.
+    cms                                  Encode or decode CMS messages.
+    install-mds                          Install (or re-install) the MDS database.
+    add-trusted-cert                     Add trusted certificate(s).
+    remove-trusted-cert                  Remove trusted certificate(s).
+    dump-trust-settings                  Display contents of trust settings.
+    user-trust-settings-enable           Display or manipulate user-level trust settings.
+    trust-settings-export                Export trust settings.
+    trust-settings-import                Import trust settings.
+    verify-cert                          Verify certificate(s).
+    authorize                            Perform authorization operations.
+    authorizationdb                      Make changes to the authorization policy database.
+    execute-with-privileges              Execute tool with privileges.
+    leaks                                Run /usr/bin/leaks on this process.
+    error                                Display a descriptive message for the given error code(s).
+    create-filevaultmaster-keychain      Create a keychain containing a key pair for FileVault recovery use.
+    smartcards                           Enable, disable or list disabled smartcard tokens.
+    translocate-create                   Create a translocation point for the provided path
+    translocate-policy-check             Check whether a path would be translocated.
+    translocate-status-check             Check whether a path is translocated.
+    translocate-original-path            Find the original path for a translocated path.
+    requirement-evaluate                 Evaluate a requirement against a cert chain.
+/Users/gcrane/.zshrc:139: command not found: Status
+/Users/gcrane/.zshrc:140: command not found: Docs
+/Users/gcrane/.zshrc:141: command not found: Contact
+/Users/gcrane/.zshrc:142: command not found: Pricing
+/Users/gcrane/.zshrc:143: command not found: API
+/Users/gcrane/.zshrc:144: command not found: Training
+/Users/gcrane/.zshrc:145: command not found: Blog
+/Users/gcrane/.zshrc:146: command not found: About
+gcrane@MACLAU08628 ~ % cd Downloads/cros-schaeff-tiffs 
+gcrane@MACLAU08628 cros-schaeff-tiffs % vi 023eng.txt 
+
+LESSON XVI
+
+MASCULINE NOUNS OF THE A-DECLENSION. REFLEXIVE
+PRONOUNS
+
+dyarnges Tov TAnCioy Gov ds TuvTdV.
+Thou shalt love thy neighbor us thyself 
+
+87. Masculine Nouns of the A-declension. Most nouns
+of the a-declension are feminine. Masculines may be
+recognized not merely as referring to males but also as show-
+ing -ys or -as instead of -y or -a in the nominative singular.
+Their genitive singular ends in -oy. Otherwise the inflec-
+tion parallels that of the feminines.
+
+oTpatiotys soldier Bevias Xenias
+OTparist ns OTPATLOT aL Bevi Gs
+OTpATLUOT ov oTpatint av Eevi ov
+OTpatuait y OTpaTiiT ais Bevig
+aTpariwt qv oTpatidt as Bev av
+
+Note the two indications of masculine gender in -; of the nomina-
+
+tive singular and -ou of the genitive singular, both of which occur in}
+
+the o-declension.
+
+In like manner inflect éxAfrqs.
+
+88. Reflexive Pronouns are formed from the stems of the
+personal pronouns and the proper case forms of adtés. In
+"049eng.txt" [noeol] 53L, 1381B

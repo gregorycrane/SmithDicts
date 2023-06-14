@@ -1,0 +1,3 @@
+# Smith Dictionaries
+
+working directory
